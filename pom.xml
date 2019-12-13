@@ -65,11 +65,7 @@ questions.
        </dependency>
        
        
-    <dependency>
-     <groupId>com.anarsoft</groupId>
-  <artifactId>trace-agent-bootstrap</artifactId>
-  <version>1.0.0</version>
-       </dependency>
+
        
      
     <dependency>
